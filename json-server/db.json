@@ -1,0 +1,44 @@
+{
+  "institutos": [
+    {
+      "id": "5f55",
+      "Escola": "EMEF JOAO ALVES",
+      "Região": "Nordeste",
+      "Estado": "Paraíba",
+      "Município": "Araruna",
+      "Mesorregião": "Agreste Paraibano",
+      "Microrregião": "Curimataú Oriental",
+      "Matrículas": 779
+    },
+    {
+      "id": "4d05",
+      "Escola": "ECI NOSSA SENHORA DA CONCEICAO",
+      "Região": "Nordeste",
+      "Estado": "Paraíba",
+      "Município": "Belém do Brejo do Cruz",
+      "Mesorregião": "Sertão Paraibano",
+      "Microrregião": "Catolé do Rocha",
+      "Matrículas": 116
+    },
+    {
+      "id": "8a4c",
+      "Escola": "EEEFM AMERICO MAIA",
+      "Região": "Nordeste",
+      "Estado": "Paraíba",
+      "Município": "Belém do Brejo do Cruz",
+      "Mesorregião": "Sertão Paraibano",
+      "Microrregião": "Catolé do Rocha",
+      "Matrículas": 242
+    },
+    {
+      "id": "1029",
+      "Escola": "EMEIF PREFEITO PLINIO FORTE MAIA",
+      "Região": "Nordeste",
+      "Estado": "Paraíba",
+      "Município": "Belém do Brejo do Cruz",
+      "Mesorregião": "Sertão Paraibano",
+      "Microrregião": "Catolé do Rocha",
+      "Matrículas": 266
+    }
+  ]
+}
